@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "chalk": "^4.1.0",
+    "discord.js": "^13.8.1"
+  },
+  "name": "discord-v13",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "KaanPNX",
+  "license": "ISC",
+  "description": ""
+}
